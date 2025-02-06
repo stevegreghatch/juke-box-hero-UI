@@ -1,10 +1,10 @@
 import React from "react";
-import Jukebox from "./components/Jukebox";
+import Jukebox from "./components/Jukebox.js";
 
 function App() {
   return (
     <div>
-      <h1>Simple Jukebox</h1>
+      <h1>Juke Box Hero</h1>
       <Jukebox />
     </div>
   );
