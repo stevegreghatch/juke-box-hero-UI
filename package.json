@@ -5,7 +5,10 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+<<<<<<< HEAD
     "react-player": "^2.16.0",
+=======
+>>>>>>> 58ae61495dd0b13c1523e998e7b3aad7c7da6814
     "react-scripts": "^5.0.1"
   },
   "scripts": {
